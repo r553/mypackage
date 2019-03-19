@@ -1,0 +1,22 @@
+Metadata-Version: 1.0
+Name: mypackage
+Version: 0.1
+Summary: This library was created for recursive functions and sorting functions
+Home-page: https://github.com/<r553>/<mypackage>
+Author: <Rethabile Mphahlele>
+Author-email: <rethabile553@gmail.com>
+License: MIT
+Description: #mypackage
+        This library was created for recursive functions and sorting functions
+        
+        
+        #building this package locally
+        python setup.py sdist
+        
+        #installing this package from GitHub
+        pip install git+https://github.com/r553/example-python-package.git
+        
+        #updating this package from GitHub
+        pip install --upgrade git+https://github.com/r553/example-python-package.git
+        
+Platform: UNKNOWN
